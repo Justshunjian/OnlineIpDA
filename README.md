@@ -10,7 +10,7 @@ Customized IP large number of analysis tools
 
 3、利用dotnetCharting.WinForms动态生成柱状、饼图
 
-4、ip库来源纯真 和 http://ipblock.chacuo.net(通过http://ipblock.chacuo.net/down/t_file= 进行拼接下载各个国家的ipku)
+4、ip库来源纯真 和 http://ipblock.chacuo.net (通过http://ipblock.chacuo.net/down/t_file= 进行拼接下载各个国家的ipku)
 
 5...
 
