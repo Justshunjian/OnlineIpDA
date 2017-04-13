@@ -1,0 +1,7 @@
+﻿程序运行过程中发生错误,错误信息如下:
+GDI+ 中发生一般性错误。
+发生错误的程序集为:System.Drawing
+发生错误的具体位置为:
+   在 System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   在 System.Drawing.Image.Save(String filename, ImageFormat format)
+   在 OnlineIpDA.IpDAHelper.saveDAImage(Chart chart, String filename) 位置 d:\vs2013\OnlineIpDA\OnlineIpDA\utils\IpDAHelper.cs:行号 630

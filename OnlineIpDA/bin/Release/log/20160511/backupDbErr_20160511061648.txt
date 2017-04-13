@@ -1,0 +1,8 @@
+﻿程序运行过程中发生错误,错误信息如下:
+ExecuteNonQuery 要求已打开且可用的 Connection。连接的当前状态为已关闭。
+发生错误的程序集为:System.Data
+发生错误的具体位置为:
+   在 System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 OnlineIpDA.SqlDbHelper.backUpDB(String backUpPath) 位置 d:\vs2013\OnlineIpDA\OnlineIpDA\utils\SqlDbHelper.cs:行号 131

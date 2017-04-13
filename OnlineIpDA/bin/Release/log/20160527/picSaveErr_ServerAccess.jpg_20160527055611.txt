@@ -1,0 +1,7 @@
+﻿程序运行过程中发生错误,错误信息如下:
+列“addr”不属于表 。
+发生错误的程序集为:System.Data
+发生错误的具体位置为:
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.set_Item(String columnName, Object value)
+   在 OnlineIpDA.IpDAHelper.parseLogFile(Int32 days, String path) 位置 d:\vs2013\OnlineIpDA\OnlineIpDA\utils\IpDAHelper.cs:行号 185

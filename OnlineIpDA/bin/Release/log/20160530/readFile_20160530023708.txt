@@ -1,0 +1,7 @@
+﻿程序运行过程中发生错误,错误信息如下:
+长度不能小于 0。
+参数名: length
+发生错误的程序集为:mscorlib
+发生错误的具体位置为:
+   在 System.String.Substring(Int32 startIndex, Int32 length)
+   在 OnlineIpDA.utils.FileHelper.readFileContentRows(String path, Boolean cancel) 位置 d:\vs2013\OnlineIpDA\OnlineIpDA\utils\FileHelper.cs:行号 131
